@@ -1,5 +1,5 @@
 Ticker,Name,Series Type,Currency,Country,Sector,Industry,Sic,Exchange,Cik,Fiscal_End,Units,Scale,Flow,Adjustment,Periodicity,Metadata,Corporate_History
-_VIXD,CBOE S&P 500 Volatility Index (VIX),Stocks - Technical Indicators,Non Currency Series,United States,,,,,,,Index Number ,Units,Stock,none,Daily From Jan 1986 To Apr 2022<BR>,,
+_VIXD,CBOE S&P 500 Volatility Index (VIX),Stocks - Technical Indicators,Non Currency Series,United States,,,,,,,Index Number ,Units,Stock,none,Daily From Jan 1986 To May 2022<BR>,,
 Date,Ticker,Open,High,Low,Close
 01/02/1986,_VIXD,,,,18.07
 01/03/1986,_VIXD,,,,17.96
@@ -9198,3 +9198,17 @@ Date,Ticker,Open,High,Low,Close
 04/11/2022,_VIXD,23.09,24.42,22.09,24.37
 04/12/2022,_VIXD,24.94,25.38,22.27,24.26
 04/13/2022,_VIXD,23.52,24.45,21.37,21.82
+04/14/2022,_VIXD,21.72,22.7,20.85,22.7
+04/18/2022,_VIXD,24.52,24.6,21.98,22.17
+04/19/2022,_VIXD,22.55,22.92,20.36,21.37
+04/20/2022,_VIXD,21.13,21.32,19.75,20.32
+04/21/2022,_VIXD,20.24,23.28,19.81,22.68
+04/22/2022,_VIXD,22.71,28.27,22.62,28.21
+04/25/2022,_VIXD,30.04,31.6,26.8,27.02
+04/26/2022,_VIXD,27.38,33.81,27.06,33.52
+04/27/2022,_VIXD,31.11,32.77,29.82,31.6
+04/28/2022,_VIXD,29.91,32,28,29.99
+04/29/2022,_VIXD,28.97,34.34,28.54,33.4
+05/02/2022,_VIXD,33.35,36.64,31.74,32.34
+05/03/2022,_VIXD,31.76,32.82,29.06,29.25
+05/04/2022,_VIXD,29.12,29.42,24.94,25.42
