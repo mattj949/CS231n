@@ -1,4 +1,7 @@
 # CS231n
+
+Analysis of Volatility Surfaces with Computer Vision
+
 CS231n Vol Surface CNN
 
 S&P 500 and APPL Volatility Surface Data is from OptionMetrics
